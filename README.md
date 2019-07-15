@@ -4,9 +4,14 @@
 **Feel free to add to the list!!**. If you think this is helpfull **Please give a Star ★**.
 
 
+## Dokumentation & Help
+
+- [StackOverflow - vis.js questions & answers](https://stackoverflow.com/questions/tagged/vis.js)
+
+
 ## vis.js based libraries
 
-- [AngularJS directive module for VisJS components.](https://github.com/visjs/angular-visjs)
+- [AngularJS directive module for vis.js components.](https://github.com/visjs/angular-visjs)
 - [vis.js Drupal integration](https://www.drupal.org/project/visjs)
 
 ## Blogposts & Tutorials
