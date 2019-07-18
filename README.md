@@ -26,7 +26,8 @@
 - [AngularJS directive module for vis.js components.](https://github.com/visjs/angular-visjs)
 - [vis.js Drupal integration](https://www.drupal.org/project/visjs)
 - [vaadin vis.js component](https://vaadin.com/directory/component/visjs-vaadin-component)
-- [CHAP Links (the vis.js predecessor)](https://almende.github.io/chap-links-library/)
+- [CHAP Links](https://almende.github.io/chap-links-library/) - the vis.js predecessor library
+- [bespoke-vis](https://www.npmjs.com/package/bespoke-vis) - Use visjs to include timelines in your bespoke.js presentation
 
 ### Blogposts & Tutorials
 
