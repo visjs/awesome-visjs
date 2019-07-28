@@ -84,7 +84,7 @@ nationality, personal appearance, race, religion, or sexual identity and orienta
 
 
 ### License
-[![CC0](//mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](//creativecommons.org/licenses/by-sa/4.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](//creativecommons.org/licenses/by-sa/4.0/).
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 License holders are [all contributors](http://github.com/visjs/awesome-visjs/graphs/contributors).
