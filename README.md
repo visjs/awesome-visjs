@@ -1,9 +1,9 @@
 # Awesome vis.js
 > A curated list around vis.js
 
-**Feel free to add to the list!!**. If you think this is helpfull **Please give a Star ★**.
+**Feel free to add to the list!!**. If you think this is helpful **Please give a Star ★**.
 
-## Ressources
+## Resources
 
 - [visjs@npm](https://www.npmjs.com/org/visjs)
 
@@ -15,7 +15,7 @@
 - [vis.js via cdnjs](https://cdnjs.com/libraries/vis)
 - [vis.js via unpkg](https://unpkg.com/vis)
 
-### Dokumentation & Help
+### Documentation & Help
 
 - [vis-data documentation](https://visjs.github.io/vis-data/)
 
@@ -27,8 +27,8 @@
 - [AngularJS directive module for vis.js components.](https://github.com/visjs/angular-visjs)
 - [vis.js Drupal integration](https://www.drupal.org/project/visjs)
 - [vaadin vis.js component](https://vaadin.com/directory/component/visjs-vaadin-component)
-- [CHAP Links](https://almende.github.io/chap-links-library/) - the vis.js predecessor library
-- [bespoke-vis](https://www.npmjs.com/package/bespoke-vis) - Use visjs to include timelines in your bespoke.js presentation
+- [CHAP Links](https://almende.github.io/chap-links-library/) - The vis.js predecessor library.
+- [bespoke-vis](https://www.npmjs.com/package/bespoke-vis) - Use visjs to include timelines in your bespoke.js presentation.
 
 ### Blogposts & Tutorials
 
@@ -75,7 +75,7 @@ Flow diagram generator
 See the [Contribution Guide](CONTRIBUTING.md) for details on how to contribute.
 
 ### Code of Conduct
-See the [Code of Conduct](CODE-OF-CONDUCT.md) for details. Basically it comes down to:
+See the [Code of Conduct](CODE-OF-CONDUCT.md) for details. Basically, it comes down to:
 > In the interest of fostering an open and welcoming environment, we as
 contributors and maintainers pledge to making participation in our project and
 our community a harassment-free experience for everyone, regardless of age, body
@@ -84,7 +84,7 @@ nationality, personal appearance, race, religion, or sexual identity and orienta
 
 
 ### License
-[![CC0](//mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](//creativecommons.org/licenses/by-sa/4.0/)
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](//creativecommons.org/licenses/by-sa/4.0/).
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 License holders are [all contributors](http://github.com/visjs/awesome-visjs/graphs/contributors).
