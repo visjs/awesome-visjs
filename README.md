@@ -24,6 +24,7 @@
 ### vis.js based libraries
 
 - [react-graph3d-vis](https://github.com/auquan/react-graph3d-vis) - A react component to create interactive 3d graphs.
+- [react-graph-vis](https://github.com/crubier/react-graph-vis) - A react component to render NETWORK graphs.
 - [AngularJS directive module for vis.js components.](https://github.com/visjs/angular-visjs)
 - [vis.js Drupal integration](https://www.drupal.org/project/visjs)
 - [vaadin vis.js component](https://vaadin.com/directory/component/visjs-vaadin-component)
