@@ -30,6 +30,7 @@
 - [vaadin vis.js component](https://vaadin.com/directory/component/visjs-vaadin-component)
 - [CHAP Links](https://almende.github.io/chap-links-library/) - The vis.js predecessor library.
 - [bespoke-vis](https://www.npmjs.com/package/bespoke-vis) - Use visjs to include timelines in your bespoke.js presentation.
+- [visNetwork](https://github.com/datastorm-open/visNetwork) - R package, using vis.js library for network visualization
 
 ### Blogposts & Tutorials
 
