@@ -44,6 +44,16 @@
 - [@visjs twitter account](https://twitter.com/visjs)
 - [vis.js gitter chart](https://gitter.im/vis-js/Lobby)
 
+### Aternatives
+
+#### Timeline
+
+- [Ruimdetijd/timeline](https://github.com/Ruimdetijd/timeline) - Slime timeline component
+
+#### Network
+
+- [sigmajs.org](http://sigmajs.org/)
+
 ## Showcases
 
 ### Network
