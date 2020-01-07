@@ -6,7 +6,6 @@
 ## Resources
 
 - [visjs@npm](https://www.npmjs.com/org/visjs)
-
 - [vis-graph3d](https://github.com/visjs/vis-graph3d) - Create interactive, animated 3d graphs. Surfaces, lines, dots and block styling out of the box.
 - [vis-data](https://github.com/visjs/vis-data) - Manage unstructured data using DataSet. Add, update, and remove data, and listen for changes in the data.
 
@@ -18,7 +17,6 @@
 ### Documentation & Help
 
 - [vis-data documentation](https://visjs.github.io/vis-data/)
-
 - [StackOverflow - vis.js questions & answers](https://stackoverflow.com/questions/tagged/vis.js)
 
 ### vis.js based libraries
