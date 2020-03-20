@@ -44,7 +44,7 @@
 - [@visjs twitter account](https://twitter.com/visjs)
 - [vis.js gitter chart](https://gitter.im/vis-js/Lobby)
 
-### Aternatives
+### Alternatives
 
 #### Timeline
 
