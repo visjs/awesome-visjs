@@ -31,6 +31,7 @@
 - [visNetwork](https://github.com/datastorm-open/visNetwork) - R package, using vis.js library for network visualization
 - [timeline-arrows](https://github.com/javdome/timeline-arrows) - Class to easily draw lines to connect items in the vis Timeline module.     
 - [vue-vis-network](https://github.com/r3code/vue-vis-network) - Integrate vis Network module to your Vue 2 application do draw network diagrams.
+- [neovis.js](https://github.com/neo4j-contrib/neovis.js) - Graph visualizations powered by vis.js with data from Neo4j.
 
 ### Blogposts & Tutorials
 
