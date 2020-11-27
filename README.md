@@ -32,6 +32,8 @@
 - [timeline-arrows](https://github.com/javdome/timeline-arrows) - Class to easily draw lines to connect items in the vis Timeline module.     
 - [vue-vis-network](https://github.com/r3code/vue-vis-network) - Integrate vis Network module to your Vue 2 application do draw network diagrams.
 - [neovis.js](https://github.com/neo4j-contrib/neovis.js) - Graph visualizations powered by vis.js with data from Neo4j.
+- [timeline-dep-graph](https://github.com/SarAhmed/timeline-dep-graph) - Interavtive Angular-based library to visualize tasks’ hierarchies and dependencies.
+
 
 ### Blogposts & Tutorials
 
