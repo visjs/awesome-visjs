@@ -71,6 +71,7 @@
 #### Timeline
 
 - [Ruimdetijd/timeline](https://github.com/Ruimdetijd/timeline) - Slime timeline component
+- [KronoGraph](https://cambridge-intelligence.com/kronograph/features/) - Commercial tool by CambridgeIntelligence.
 
 #### Network
 
