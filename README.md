@@ -111,6 +111,14 @@ https://github.com/emsk/skyebridge
 
 Flow diagram generator
 
+#### Mercator
+
+![](https://github.com/dbarzin/mercator/blob/master/public/screenshots/mercator9.png)
+https://github.com/dbarzin/mercator
+
+Information system mapping
+
+
 ## Misc
 
 ### Contributing
