@@ -20,39 +20,42 @@
 
 ## Libraries
 
-- [vis-network](https://github.com/visjs/vis-network) - Display dynamic, automatically organised, customizable network views.
-- [vis-timeline](https://github.com/visjs/vis-timeline) - Create a fully customizable, interactive timelines and 2d-graphs with items and ranges.
-- [vis-graph3d](https://github.com/visjs/vis-graph3d) - Create interactive, animated 3d graphs. Surfaces, lines, dots and block styling out of the box.
-- [vis-data](https://github.com/visjs/vis-data) - Manage unstructured data using DataSet. Add, update, and remove data, and listen for changes in the data.
+- [vis-network](https://github.com/visjs/vis-network) - Display dynamic, automatically organised, customizable network views
+- [vis-timeline](https://github.com/visjs/vis-timeline) - Create a fully customizable, interactive timelines and 2d-graphs with items and ranges
+- [vis-graph3d](https://github.com/visjs/vis-graph3d) - Create interactive, animated 3d graphs. Surfaces, lines, dots and block styling out of the box
+- [vis-data](https://github.com/visjs/vis-data) - Manage unstructured data using DataSet. Add, update, and remove data, and listen for changes in the data
 
 ### vis.js based libraries
 
 #### Add-Ons
-- [timeline-arrows](https://github.com/javdome/timeline-arrows) - Class to easily draw lines to connect items in the vis Timeline module.     
-
-#### Vue
-- [vue-visjs](https://www.npmjs.com/package/vue-visjs) - Vue2 component that helps with Visjs interaction.
-- [vue-vis-network](https://github.com/r3code/vue-vis-network) - Integrate vis Network module to your Vue 2 application do draw network diagrams.
-- [vue2vis](https://www.npmjs.com/package/vue2vis) - Vue2 component that helps with Visjs interaction [Deprecated]
-
-#### React
-- [react-graph3d-vis](https://github.com/auquan/react-graph3d-vis) - A react component to create interactive 3d graphs.
-- [react-graph-vis](https://github.com/crubier/react-graph-vis) - A react component to render NETWORK graphs.
-
-#### AngularJS
-- [angular-visjs](https://github.com/visjs/angular-visjs) - AngularJS directive module for vis.js components.
+- [timeline-arrows](https://github.com/javdome/timeline-arrows) - Class to easily draw lines to connect items in the vis Timeline module    
 
 #### Angular
-- [timeline-dep-graph](https://github.com/SarAhmed/timeline-dep-graph) - Interavtive Angular-based library to visualize tasks’ hierarchies and dependencies.
-- [ngx-vis](https://github.com/visjs/ngx-vis) - An angular 5+ vis.js project.
+- [timeline-dep-graph](https://github.com/SarAhmed/timeline-dep-graph) - Interavtive Angular-based library to visualize tasks’ hierarchies and dependencies
+- [ngx-vis](https://github.com/visjs/ngx-vis) - An angular 5+ vis.js project
+
+#### AngularJS
+- [angular-visjs](https://github.com/visjs/angular-visjs) - AngularJS directive module for vis.js components
+
+#### Python
+- [pyvisjs](https://gitlab.com/22kittens/pyvisjs) - Python package designed to provide seamless interaction with vis.js network visualizations
+
+#### React
+- [react-graph3d-vis](https://github.com/auquan/react-graph3d-vis) - A react component to create interactive 3d graphs
+- [react-graph-vis](https://github.com/crubier/react-graph-vis) - A react component to render NETWORK graphs
+
+#### Vue
+- [vue-visjs](https://www.npmjs.com/package/vue-visjs) - Vue2 component that helps with Visjs interaction
+- [vue-vis-network](https://github.com/r3code/vue-vis-network) - Integrate vis Network module to your Vue 2 application do draw network diagrams
+- [vue2vis](https://www.npmjs.com/package/vue2vis) - Vue2 component that helps with Visjs interaction [Deprecated]
 
 #### Misc
 - [vis.js Drupal integration](https://www.drupal.org/project/visjs)
 - [vaadin vis.js component](https://vaadin.com/directory/component/visjs-vaadin-component)
-- [CHAP Links](https://almende.github.io/chap-links-library/) - The vis.js predecessor library.
-- [bespoke-vis](https://www.npmjs.com/package/bespoke-vis) - Use visjs to include timelines in your bespoke.js presentation.
+- [CHAP Links](https://almende.github.io/chap-links-library/) - The vis.js predecessor library
+- [bespoke-vis](https://www.npmjs.com/package/bespoke-vis) - Use visjs to include timelines in your bespoke.js presentation
 - [visNetwork](https://github.com/datastorm-open/visNetwork) - R package, using vis.js library for network visualization
-- [neovis.js](https://github.com/neo4j-contrib/neovis.js) - Graph visualizations powered by vis.js with data from Neo4j.
+- [neovis.js](https://github.com/neo4j-contrib/neovis.js) - Graph visualizations powered by vis.js with data from Neo4j
 
 
 ### Blogposts & Tutorials
@@ -71,7 +74,7 @@
 #### Timeline
 
 - [Ruimdetijd/timeline](https://github.com/Ruimdetijd/timeline) - Slime timeline component
-- [KronoGraph](https://cambridge-intelligence.com/kronograph/features/) - Commercial tool by CambridgeIntelligence.
+- [KronoGraph](https://cambridge-intelligence.com/kronograph/features/) - Commercial tool by CambridgeIntelligence
 
 #### Network
 
