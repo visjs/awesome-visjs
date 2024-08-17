@@ -68,6 +68,8 @@
 
 ### Alternatives
 
+- [Visualizations on Enola.dev](https://docs.enola.dev/concepts/other/#visualization)
+
 #### Timeline
 
 - [Ruimdetijd/timeline](https://github.com/Ruimdetijd/timeline) - Slime timeline component
